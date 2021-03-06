@@ -11,4 +11,8 @@ public class Materials extends Course{
      public Materials(int title, int idDegree) {
           super(title, idDegree);
      }
+
+     public float getRecord() {
+          return record;
+     }
 }
