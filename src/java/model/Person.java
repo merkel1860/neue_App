@@ -17,7 +17,6 @@ public class Person {
         idPerson = pseudoRandomGenerator();
     }
 
-
     private long pseudoRandomGenerator() {
         long index;
         do {
